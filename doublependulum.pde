@@ -65,9 +65,6 @@ void draw() {
     stroke(one);
     line(x1, y1, x2, y2);
 
-
-
-
     //a1_v *= .999; to add damping (friction)
     //a2_v *= .999;
 
